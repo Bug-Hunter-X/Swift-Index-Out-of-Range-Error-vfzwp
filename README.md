@@ -1,0 +1,2 @@
+# Swift Index Out of Range Error
+This repository demonstrates a common Swift error: index out of range.  Accessing array elements with invalid indices leads to runtime crashes.  The solution shows how to prevent this error with robust index validation.
